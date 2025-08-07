@@ -65,7 +65,15 @@ The dashboard is built using **Excel pivot tables, charts, and slicers**, provid
 
 ---
 
+## Dashboard
+<p align="center">
+  <img src="./assets/Vrinda_Stores_Dashboard.png" alt="Dashboard Preview" width="700"/>
+</p>
+
+---
+
 ## 💡 Learnings
 
 - Gained hands-on experience with **pivot charts**, **dashboard layout**, and **slicer interactivity**
 - Improved understanding of **data storytelling** through visual design in Excel
+  
