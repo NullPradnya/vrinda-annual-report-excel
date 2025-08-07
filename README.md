@@ -67,7 +67,7 @@ The dashboard is built using **Excel pivot tables, charts, and slicers**, provid
 
 ## Dashboard
 <p align="center">
-  <img src="./assets/Vrinda_Stores_Dashboard.png" alt="Dashboard Preview" width="700"/>
+  <img src="Vrinda_Stores_Dashboard.png" alt="Dashboard Preview" width="700"/>
 </p>
 
 ---
